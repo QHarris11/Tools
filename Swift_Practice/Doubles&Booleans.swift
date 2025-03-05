@@ -1,3 +1,5 @@
+import Foundation
+
 //doubles
 let int = 1000
 var intDecimal = 1000 
